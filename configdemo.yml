@@ -1,0 +1,4 @@
+build:
+  id: ${ID}
+  name: "Default Profiles"
+  version: 1.2.3
